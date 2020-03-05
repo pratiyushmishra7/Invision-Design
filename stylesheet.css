@@ -1,0 +1,244 @@
+.home {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 900px;
+    width: 1440px;
+    background-color: #FFE8DF
+}
+
+.cat-n-dog-logo-copy {
+    position: absolute;
+    left: 41px;
+    top: 33px;
+    height: 62px;
+    width: 194px;
+  }
+  .title {
+    height: 418px;
+    width: 571px;
+  }
+  .lorem-ipsumm-is-simpl {
+    position: absolute;
+    left: 60px;
+    top: 355px;
+    height: 162px;
+    width: 571px;
+    color: #3E3E3E;
+    font-family: "Banana Grotesk";
+    font-size: 42px;
+    font-weight: 500;
+    line-height: 54px;
+  }
+  .lorem-ipsum-has-been {
+    position: absolute;
+    left: 60px;
+    top: 537px; 
+    height: 108px;
+    width: 440px;
+    color: #6D6D6D;
+    font-family: "Banana Grotesk";
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: -0.11px;
+    line-height: 27px;
+  }
+  .buttons {
+
+    height: 80px;
+    width: 379px;
+  }
+  .app-store-badge {
+    position: absolute;
+    left: 60px;
+    top: 693px; 
+    height: 70px;
+    width: 160px;
+  }
+  .google-play-badge {
+    position: absolute;
+    left: 252px;
+    top: 693px; 
+    height: 70px;
+    width: 206.72px;
+  }
+  .bullets {
+    height: 153px;
+    width: 220px;
+  }
+  .nav {
+    height: 8px;
+    width: 25px;
+  }
+  .rectangle2 {
+    position: absolute;
+    left: 850px;
+    top: 643px;
+    box-sizing: border-box;
+    height: 5px;
+    width: 5px;
+    border: 1px solid #FEE7DE;
+    border-radius: 2.5px;
+  }
+  .rectangle1 {
+    position: absolute;
+    left: 830px;
+    top: 642px;
+    height: 8px;
+    width: 8px;
+    border-radius: 4px;
+    background-color: #FEE7DE;
+  }
+  .text {
+    height: 123px;
+    width: 220px;
+  }
+  .type-text {
+    position: absolute;
+    left: 831px;
+    top: 497px;
+    height: 27px;
+    width: 80px;
+    color: #FFFFFF;
+    font-family: "Banana Grotesk";
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: -0.12px;
+    line-height: 27px;
+  }
+  .lorem-ipsum-is-simpl {
+    position: absolute;
+    left: 830px;
+    top: 539px;
+    height: 81px;
+    width: 220px;
+    color: #FFE8DF;
+    font-family: "Banana Grotesk";
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: -0.11px;
+    line-height: 27px;
+  }
+.background {
+    position: absolute;
+    left: 720px;
+    top: 0px;
+    height: 810px;
+    width: 720px;
+  }
+  .group-2 {
+    position: absolute;
+    left: 720px;
+    top: 0px;
+    height: 810px;
+    width: 720px;
+  }
+  .photo-1563460716037-460-a-3-ad {
+    position: absolute;
+    left: 720px;
+    top: -174px;
+    height: 810px;
+    height: 1080px;
+    width: 720px;
+  }
+  .mask {
+    position: absolute;
+    left: 720px;
+    top: 0px;
+    height: 810px;
+    width: 720px;
+    background-color: #000000;
+  }
+.menu {
+    left: 1171px;
+    top: 41px;
+    height: 54px;
+    width: 210px;
+  }
+  .contact {
+    position: absolute;
+    left: 1335px;
+    top: 41px;
+    height: 27px;
+    width: 46px;
+    color: #F7F7F7;
+    font-family: "Banana Grotesk";
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 27px;
+  }
+  .careers {
+    position: absolute;
+    left: 1272px;
+    top: 41px;
+    height: 27px;
+    width: 44px;
+    color: #F7F7F7;
+    font-family: "Banana Grotesk";
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 27px;
+  }
+  .about {
+    position: absolute;
+    left: 1171px;
+    top: 41px;
+    height: 27px;
+    width: 35px;
+    color: #F7F7F7;
+    font-family: "Banana Grotesk";
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 27px;
+  }
+  .blog {
+    position: absolute;
+    left: 1226px;
+    top: 41px;
+    height: 27px;
+    width: 26px;
+    color: #F7F7F7;
+    font-family: "Banana Grotesk";
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 27px;
+  }
+  .social {
+    height: 16px;
+    width: 145px;
+  }
+  .facebook {
+    position: absolute;
+    left: 1235px;
+    top: 744px;
+    height: 15.24px;
+    width: 7.13px;
+  }
+  .instagram {
+    position: absolute;
+    left: 1273.1px;
+    top: 744px;
+    height: 15.24px;
+    width: 15.24px;
+  }
+  .twitter {
+    position: absolute;
+    left: 1318.43px;
+    top: 744px;
+    height: 12.72px;
+    width: 15.24px;
+  }
+  .linkedin {
+    position: absolute;
+    left: 1364.19px;
+    top: 744px;
+    height: 15.37px;
+    width: 15.24px;
+  }
+
+  .slide1 {
+    display: block;
+  }
+  .slide2 {
+      display: none;
+  }
